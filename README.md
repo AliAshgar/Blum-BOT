@@ -23,7 +23,7 @@ Welcome to GameBot, your automated assistant for managing and optimizing your ex
 1. Clone this repository:
 
    ```
-   git clone https://github.com/Galkurta/Blum-BOT.git
+   git clone https://github.com/AliAshgar/Blum-BOT.git
    ```
 
 2. Navigate to the project directory:
