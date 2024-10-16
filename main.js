@@ -399,7 +399,7 @@ class GameBot {
     try {
       await this.randomDelay();
       const response = await axios.post(
-        "https://game-domain.blum.codes/api/v1/game/play",
+        "https://game-domain.blum.codes/api/v2/game/play",
         data,
         { headers: await this.headers(this.token) }
       );
